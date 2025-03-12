@@ -14,6 +14,7 @@ SpringIOC_Annotation_Project/
 │   ├── main/
 │   │   ├── MainApp.java
 │-- pom.xml
+       |`<!-- Spring Core <version>6.0.17--><!-- Spring Context <version>6.0.17-->
 ```
 
 ## 🛠 Technologies Used
